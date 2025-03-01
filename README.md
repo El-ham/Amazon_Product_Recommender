@@ -15,7 +15,7 @@ To ensure computational efficiency, the dataset was filtered to include:
 - **Products that have received at least 5 ratings**  
 
 ### **Dataset Availability**  
-Since the original CSV file was too large to upload to GitHub due to size limitations, only the **first 100 rows** of the dataset have been included in this repository as a sample. If you want to work with the full dataset, you may need to obtain the complete version separately.
+Since the original CSV file was too large to upload to GitHub due to size limitations, only the **first 100 rows** of the dataset have been included in this repository as a sample. If you want to work with the full dataset, please let me know, and I can share the link to the complete version via Google Drive.
 
 ## **Approach**  
 The recommendation system was developed using three different techniques:  
