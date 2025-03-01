@@ -52,8 +52,3 @@ Best hyperparameters were selected to minimize **RMSE** and improve precision an
 - **SVD-based Matrix Factorization** had the lowest **RMSE (~0.88)**, capturing latent features effectively.  
 - Hyperparameter tuning significantly improved prediction accuracy compared to baseline models.  
 
-## **How to Run the Project**  
-1. **Clone this repository**:  
-   ```bash
-   git clone https://github.com/yourusername/amazon-recommendation-system.git
-   cd amazon-recommendation-system
